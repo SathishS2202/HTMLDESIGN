@@ -1,0 +1,20 @@
+h1
+{
+    align-content: center;
+    margin-left: 550px;
+    color: rgb(237, 240, 82)
+}
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(31, 31, 24);
+    column-gap: 2px;
+}
+div{
+    margin-left: 23px;
+}
+img:hover
+{
+    background-color: beige;
+}
